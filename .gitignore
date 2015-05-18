@@ -1,0 +1,11 @@
+# Dear Apple: STOP THIS.
+.DS_Store
+
+# compiled Python modules
+*.pyc
+
+# Setuptools distribution folder
+/dist/
+
+ # Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
